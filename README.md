@@ -1,6 +1,7 @@
 # Twitter-Sentiment-Analysis
 A detailed Study of Sentiment Analysis with several Algorithm and VADER
 Streaming of Live Twitter Data Fetched Data using Tweepy on Multiple days from March till April 2021. On Us Political persons ("OBAMA", "trump", "Bernie sanders", "Hilary Clinton")
+
 #•	Combined Multiple CSV into single CSV using Coding
 #•	Removal of Un wanted Columns and The Re-Tweets in Tweets
 #•	Removal of Patterns in the tweet
